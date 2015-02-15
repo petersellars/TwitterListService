@@ -13,3 +13,4 @@ to build the service.
 * [Application Plugin](http://gradle.org/docs/current/userguide/application_plugin.html)
 * [Java Plugin](http://gradle.org/docs/current/userguide/java_plugin.html)
 * [IDEA Plugin](https://gradle.org/docs/current/userguide/idea_plugin.html)
+* [OneJar Plugin](https://github.com/rholder/gradle-one-jar)
